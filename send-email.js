@@ -14,7 +14,7 @@ export default async function handler(req, res) {
     secure: true,
     auth: {
       user: "perekrutan@kojac.id",
-      pass: "PASSWORD_EMAIL_KAMU"
+      pass: "Perekrutan123!"
     }
   });
 
